@@ -81,6 +81,12 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+			['The IKEA VS MeowMeow Team'],
+			['xmati',		'xmati',		'Director, Coder and Artist',								'https://www.youtube.com/channel/UCnDaqcfVnYu9qZxkxeeYkrQ',	'444444'],
+			['Dave Gaming',			'dave',			'Musician and Charter',							'https://www.youtube.com/@davegaming9582',		'B42F71'],
+			['Galaxyy_',				'galaxy',			'Artist', 'https://www.youtube.com/channel/UCtSD4QqJFiZ5lp9sUEp91qA',	'444444'],
+			['IKEADev',				'ikea',			'Gave most of the ideas, is included in the mod!', 'https://www.youtube.com/@IKEADev',	'444444'],
+
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
 			['RiverOaken',			'river',			'Main Artist/Animator of Psych Engine',							'https://twitter.com/RiverOaken',		'B42F71'],
