@@ -46,7 +46,7 @@ class FPS extends TextField
 		currentFPS = 0;
 		selectable = false;
 		mouseEnabled = false;
-		defaultTextFormat = new TextFormat("fredokaone", 14, color);
+		defaultTextFormat = new TextFormat("Comic Sans MS Bold", 14, color);
 		autoSize = LEFT;
 		multiline = true;
 		text = "Frames Per Second: ";
