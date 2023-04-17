@@ -86,6 +86,10 @@ class CreditsState extends MusicBeatState
 			['Dave Gaming',			'dave',			'Musician and Charter',							'https://www.youtube.com/@davegaming9582',		'B42F71'],
 			['Galaxyy_',				'galaxy',			'Artist', 'https://www.youtube.com/channel/UCtSD4QqJFiZ5lp9sUEp91qA',	'444444'],
 			['IKEADev',				'ikea',			'Gave most of the ideas, is included in the mod!', 'https://www.youtube.com/@IKEADev',	'444444'],
+			['BluBean',				'blubean',			'Artist',	'444444'],
+			['Some Guy Studios',				'someguy',			'Artist', 'https://www.youtube.com/@someguy7714/videos',	'444444'],
+
+
 
 			['Psych Engine Team'],
 			['Shadow Mario',		'shadowmario',		'Main Programmer of Psych Engine',								'https://twitter.com/Shadow_Mario_',	'444444'],
