@@ -86,7 +86,7 @@ class CreditsState extends MusicBeatState
 			['Dave Gaming',			'dave',			'Musician and Charter',							'https://www.youtube.com/@davegaming9582',		'B42F71'],
 			['Galaxyy_',				'galaxy',			'Artist', 'https://www.youtube.com/channel/UCtSD4QqJFiZ5lp9sUEp91qA',	'444444'],
 			['IKEADev',				'ikea',			'Artist for Corruption, Gave most of the ideas and is included in the mod!', 'https://www.youtube.com/@IKEADev',	'444444'],
-			['BluBean',				'blubean',			'https://www.youtube.com/@blubeann',	'444444'],
+			['BluBean',				'blubean',			'Artist', 'https://www.youtube.com/@blubeann',	'444444'],
 			['Some Guy Studios',				'someguy',			'Artist', 'https://www.youtube.com/@someguy7714/videos',	'444444'],
 
 
